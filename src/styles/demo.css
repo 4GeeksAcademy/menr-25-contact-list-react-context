@@ -1,0 +1,40 @@
+.pencil:hover{
+    font-size: 120%;
+    color: grey;
+    cursor: pointer;
+    
+}
+
+.trash:hover{
+    font-size: 120%;
+    color: red;
+    cursor: pointer;
+}
+
+.name{
+    font-size: 25px;
+}
+
+.imageBox{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.contactImage {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.phoneIcon{
+    margin-right: 10px;
+}
+
+.emailIcon{
+    margin-right: 10px;
+}
+
+.addressIcon{
+    margin-right: 10px;
+}
